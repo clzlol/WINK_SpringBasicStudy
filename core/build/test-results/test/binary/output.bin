@@ -1,4 +1,0 @@
-AppConfig.memberService
-AppConfig.memberRepository
-AppConfig.orderService
-3bean = class hello.core.AppConfig$$SpringCGLIB$$0
