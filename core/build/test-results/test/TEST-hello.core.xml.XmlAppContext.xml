@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.xml.XmlAppContext" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-29T05:27:48" hostname="nam-yunchan-ui-MacBookPro.local" time="0.043">
+  <properties/>
+  <testcase name="xmlAppContext()" classname="hello.core.xml.XmlAppContext" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
