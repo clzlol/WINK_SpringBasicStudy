@@ -7,6 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 
-/core/build/reports/
-/core/build/tmp/
-/core/build/test-results/
+/core/build/reports/*
+/core/build/tmp/*
+/core/build/test-results/*
